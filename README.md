@@ -1,2 +1,2 @@
-# penduline
-oscillation time for celebration
+# p5.play-boilerplate
+Boiler plate for p5.play
